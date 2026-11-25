@@ -1,0 +1,12 @@
+{
+  "name": "backstage-module-accreditations",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Module externe BACKSTAGE : accreditations photo depuis Gmail.",
+  "license": "MIT",
+  "peerDependencies": {
+    "@backstage/module-kit": "*",
+    "zod": "^4.0.0"
+  }
+}
